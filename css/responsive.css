@@ -347,5 +347,7 @@ p.secfootlogomobile {
 .secpritext h3 {
   font-size: 18px;
 }
-
+.secpadw{
+  padding: 0px 20px;
+}
 }
