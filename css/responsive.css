@@ -18,7 +18,7 @@
   padding: 0px 0px 110px 0px;
 }
 .sectestpadd {
-  padding-bottom: 110px;
+  padding-bottom: 80px;
 }
 .secwe {
   font-size: 38px;
@@ -43,10 +43,39 @@ button.nav-link.col-lg-12 p {
   font-size: 22px;
 }
 .accordion-body p {
-  font-size: 140px;
+  font-size: 120px;
   line-height: 91px;
-  padding-top: 50px;
+  padding-top: 0px;
 }
+.sechersliderbg {
+  padding: 225px 10px
+}
+.secbtntest a {
+  font-size: 19px;
+  padding: 20px 38px;
+}
+.secaddre {
+  padding-top: 20px;
+  width: 84%;
+}
+.socalmedia p{
+  padding-right: 30px;
+  width: 40px;
+  height: 30px;
+  padding: 23px 47px 45px 24px !important;
+  border: 1px solid #E7E7E7;
+  border-radius: 50px;
+  margin-right: 10px;
+
+}
+input{
+  height: 62px;
+}
+.sec-menu-btn2 {
+  padding: 20px 40px;
+}
+
+
 
 }
 
